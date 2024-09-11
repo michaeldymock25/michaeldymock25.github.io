@@ -5,7 +5,7 @@ layout: home
 ---
 
 <div class="profile-picture-container">
-    <img src="/assets/profile.jpg" width = "80" height = "200" class="profile-picture" />
+    <img src="/assets/profile.jpg" width = "200" height = "350" class="profile-picture" />
 </div>
 
 I am a biostatistician based at [The Kids Research Institute Australia](https://www.thekids.org.au/) and a PhD student at [The University of Western Australia](https://www.uwa.edu.au/). 
