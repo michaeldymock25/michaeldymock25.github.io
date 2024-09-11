@@ -1,7 +1,7 @@
 title: Michael Dymock
 email: michael.dymock@thekids.org.au
 description: > # this means to ignore newlines until "baseurl:"
-  Biostatistician at The Kids Research Institute Australia \n
+  Biostatistician at The Kids Research Institute Australia and
   PhD student at The University of Western Australia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
