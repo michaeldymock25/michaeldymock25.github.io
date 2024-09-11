@@ -1,5 +1,5 @@
 ---
-## layout: post
+layout: post
 title: "What really is the geometric mean?"
 author: "Michael Dymock"
 date: "August 9, 2023"
