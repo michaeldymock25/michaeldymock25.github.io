@@ -74,7 +74,7 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [Acute exercise affects dual‐energy X‐ray absorptiometry body composition estimates but not standardised ultrasound measurements of subcutaneous adipose tissue](/assets/Acute Exercise - Clinical Physiology and Functional Imaging.pdf) published in *Clinical Physiology and Functional Imaging*
 
-[Food and fluid intake and hydration status does not affect ultrasound measurements of subcutaneous adipose tissue in active adults](/assets/Body Composition Measures - Journal of Science and Medicine in Sport.pdf) published in *Journal of Science and Medicine in Sport*
+[Food and fluid intake and hydration status does not affect ultrasound measurements of subcutaneous adipose tissue in active adults](/assets/Food and Fluid Intake - Journal of Science and Medicine in Sport.pdf) published in *Journal of Science and Medicine in Sport*
 
 [Measures of body composition via dual-energy X-ray absorptiometry, ultrasound and skinfolds are not impacted by the menstrual cycle in active eumenorrheic females](/assets/Body Composition Measures - Journal of Science and Medicine in Sport.pdf) published in *Journal of Science and Medicine in Sport*
 
