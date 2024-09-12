@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-I'm married, play AFL footy and have zero working knees. But enough about me, you only clicked on this link because you knew there would be puppies. See below for some photos of my dogs: Ollie the border collie and Sunny the golden retriever.
+I'm married, play AFL footy and have zero working knees. But enough about me, you only clicked on this link because you knew there would be puppies. See below for some photos of my dogs: Ollie the border collie and Sunny the golden retriever (more photos and videos can be found on Instagram at @ollie_and_sunny).
 
 <img src="/assets/ollie&sunny.png" width="400px" height="500px" />
 
