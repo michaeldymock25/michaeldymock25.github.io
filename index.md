@@ -13,5 +13,5 @@ I am a biostatistician based at [The Kids Research Institute Australia](https://
 In the spirit of open-source research I aim to make my work freely available and have stored various things in various locations on this website. This includes [publications]({% link research.md %}), [blog posts]({% link posts.md %}), [software]({% link software.md %}) and [talks]({% link talks.md %}). I also have a space for [personal stuff]({% link personal.md %}) for those that are interested (there are puppies!).
 
 <div class="ahi-diagram-container">
-    <img src="/assets/AHI diagram.PNG" class="ahi-diagram" />
+    <img src="/assets/AHI Diagram.PNG" class="ahi-diagram" />
 </div>
