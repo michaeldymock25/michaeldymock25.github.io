@@ -8,6 +8,6 @@ I'm married, play AFL footy and have zero working knees. But enough about me, yo
 
 <img src="/assets/ollie&sunny.png" width="400px" height="500px" />
 
-<img src="/assets/sunny_ollie_2.jpg "width="400px" height="500px" />
+<img src="/assets/sunny_ollie_2.jpg" width="400px" height="500px" />
 
 <img src="/assets/sunny_ollie_13.jpg" width="400px" height="500px" />
