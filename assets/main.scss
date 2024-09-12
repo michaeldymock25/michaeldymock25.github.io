@@ -46,3 +46,11 @@ $on-laptop:        800px;
         width: 10em;
     }
 }
+
+.ahi-diagram {
+    float: center;
+    width: 400px;
+    @include media-query($on-palm) {
+        width: 50em;
+    }
+}
