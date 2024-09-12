@@ -49,8 +49,8 @@ $on-laptop:        800px;
 
 .ahi-diagram {
     float: center;
-    height: 400px;
-    width: 600px;
+    height: 600px;
+    width: 800px;
     @include media-query($on-palm) {
         width: 50em;
     }
