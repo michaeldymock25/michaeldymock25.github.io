@@ -36,9 +36,9 @@ Mark Jones - biostatistician.
 
 ## The University of Western Australia
 
-[Associate Professor Kevin Murray](https://scholar.google.co.uk/citations?user=QROTWT8AAAAJ&hl=en&oi=sra) - biostatistician, PhD supervisor and honours supervisor.
+[Associate Professor Kevin Murray](https://scholar.google.co.uk/citations?user=QROTWT8AAAAJ&hl=en&oi=sra) - biostatistician, my PhD supervisor and honours supervisor.
 
-[Associate Professor Berwin Turlach](https://scholar.google.co.uk/citations?user=DRv2GVgAAAAJ&hl=en&oi=sra) - statistician and honours supervisor.
+[Associate Professor Berwin Turlach](https://scholar.google.co.uk/citations?user=DRv2GVgAAAAJ&hl=en&oi=sra) - statistician and my honours supervisor.
 
 ## Other statisticians
 
