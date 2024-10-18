@@ -26,7 +26,7 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 
 Below I provide the slide decks for a series of talks I have given that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
 
-[How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) presented at the The Kids Research Institute Australia Student Symposium in 2024
+[How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) intended to present at the The Kids Research Institute Australia Student Symposium in 2024 but was postponed
 
 [Lessons learned from designing COVID-19 vaccine trials in an evolving vaccine policy landscape](/assets/ICTMC_2024_slides.pdf) presented at the International Clinical Trials Methodology Conference in 2024
 
