@@ -22,7 +22,7 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [The Platform Trial in COVID-19 Priming and Boosting (PICOBOO): The immunogenicity, reactogenicity, and safety of different COVID-19 vaccinations administered as a second booster (fourth dose) in AZD1222 primed individuals aged 50-<70 years old](/assets/PICOBOO AZD1222 Primed - Journal of Infection.pdf) published in *Journal of Infection*
 
-[The Platform Trial in COVID-19 Priming and BOOsting (PICOBOO): The Immunogenicity, Reactogenicity, and Safety of Licensed COVID-19 Vaccinations Administered as a Second Booster in BNT162b2 Primed Individuals Aged 18-<50 and 50-<70 Years Old](/assets/PICOBOO BNT162b2 Primed - Journal of Infection.pdf) preprint
+[The Platform Trial in COVID-19 Priming and BOOsting (PICOBOO): The Immunogenicity, Reactogenicity, and Safety of Licensed COVID-19 Vaccinations Administered as a Second Booster in BNT162b2 Primed Individuals Aged 18-<50 and 50-<70 Years Old](/assets/PICOBOO BNT162b2 Primed - Journal of Infection.pdf) published in *Journal of Infection*
 
 [Bringing optimised COVID-19 vaccine schedules to immunocompromised populations (BOOST-IC):study protocol for an adaptive randomised controlled clinical trial](/assets/BOOST-IC Protocol - Trials.pdf) published in *Trials*
 
