@@ -12,6 +12,8 @@ In 2024 I presented an invited talk to the MRC Biostatistics Unit at the Univers
 
 [Designing Bayesian clinical trials to enhance vaccine policy recommendations](https://www.youtube.com/watch?v=fxW0lVvQnIQ) with [slide deck](/assets/Cambridge_2024_slides.pdf)
 
+Following this talk, I gave a slightly updated talk to the Collaborative Network for Value of Information ([ConVOI](https://www.convoi-group.org/homepage-portfolio-grid/about/)). This talk was not recorded but here is the [slide deck](/assets/ConVOI_2024_slides.pdf).
+
 # CAHS Research Education Program
 
 I provide three annual seminars for the [CAHS Research Education program](https://www.cahs.health.wa.gov.au/Research/For-researchers/Research-Education-Program/Seminars). Below are links to the latest editions of:
@@ -24,7 +26,7 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 
 # Unrecorded talks
 
-Below I provide the slide decks for a series of talks I have given that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
+Below I provide the slide decks for a series of talks I have given in reverse chronological order that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
 
 [How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) intended to present at the The Kids Research Institute Australia Student Symposium in 2024 but was postponed
 
