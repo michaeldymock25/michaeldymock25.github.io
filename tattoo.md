@@ -1,6 +1,3 @@
----
-title: A tale of good and evil
----
 
 ## Background
 
