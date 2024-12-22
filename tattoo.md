@@ -1,5 +1,4 @@
 ---
-layout: page
 title: A tale of good and evil
 ---
 
