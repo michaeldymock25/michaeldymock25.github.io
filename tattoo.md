@@ -1,4 +1,8 @@
-# A tale of good and evil
+---
+layout: page
+title: A tale of good and evil
+permalink: /tattoo/
+---
 
 ## Background
 
