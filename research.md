@@ -42,6 +42,8 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [A blueprint for a multi-disease, multi-domain Bayesian adaptive platform trial incorporating adult and paediatric subgroups: the Staphylococcus aureus Network Adaptive Platform trial](/assets/SNAP Blueprint - Trials.pdf) published in *Trials*
 
+[Statistical documentation for multi-disease, multi-domain platform trials: our experience with the Staphylococcus aureus Network Adaptive Platform trial](/assets/SNAP Documentation - Trials.pdf) published in *Trials*
+
 ### Kidney transplantation
 
 [Using causal directed acyclic graphs (DAGs) to select patient-important outcomes in transplantation trials—interventions to treat polyomavirus infection as an example](/assets/Transplantation DAG - Kidney International.pdf) published in *Kidney International*
