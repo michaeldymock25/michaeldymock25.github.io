@@ -38,6 +38,8 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [National pharmacovigilance of seasonal influenza vaccines in Australia](/assets/AusVaxSafety Influenza Pharmacovigilance - Medical Journal of Australia.pdf) published in *Medical Journal of Australia*
 
+[Short term safety profile of respiratory syncytial virus vaccine in adults aged ≥ 60 years in Australia](/assets/AusVaxSafety 2025 - The Lancet Regional Health - Western Pacific.pdf) published in *The Lancet Regional Health - Western Pacific*
+
 ### Staphylococcus aureus infections
 
 [A blueprint for a multi-disease, multi-domain Bayesian adaptive platform trial incorporating adult and paediatric subgroups: the Staphylococcus aureus Network Adaptive Platform trial](/assets/SNAP Blueprint - Trials.pdf) published in *Trials*
