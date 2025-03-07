@@ -6,9 +6,11 @@ permalink: /research/
 
 I maintain my publication record at [Google Scholar](https://scholar.google.com/citations?user=trDAMEUAAAAJ&hl=en&oi=ao). For ease (and transparency) I have grouped my publications thematically and made them available online in the following sections.
 
-## Current (methodological) work
+## Current methodological work
 
-I am currently working on developing methods to enhance the design of vaccine trials to produce higher quality evidence to inform vaccine policy recommendations. My work in this area is yet to be published but rest assured, it will be uploaded once available.
+I am currently working on developing methods to enhance the design of vaccine trials to produce higher quality evidence to inform vaccine policy recommendations. My work in this area is yet to be published but it will be uploaded once available.
+
+Here is the preprint for my first (PhD) paper: [What is the quality of evidence informing vaccine clinical practice recommendations in Australia?](/assets/Quality of Evidence - Preprint.pdf)
 
 ## Applied work
 
@@ -58,7 +60,7 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [Short- versus standard-course intravenous antibiotics for peri-prosthetic joint infections managed with debridement and implant retention: a randomised pilot trial using a desirability of outcome ranking (DOOR) endpoint](/assets/Joint Infections - International Journal of Antimicrobial Agents.pdf) published in *International Journal of Antimicrobial Agents*
 
-### Consulting work (in a previous lifetime)
+### Consulting work (in a previous life)
 
 #### Lactation
 
@@ -84,6 +86,6 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [Measures of body composition via dual-energy X-ray absorptiometry, ultrasound and skinfolds are not impacted by the menstrual cycle in active eumenorrheic females](/assets/Body Composition Measures - Journal of Science and Medicine in Sport.pdf) published in *Journal of Science and Medicine in Sport*
 
-## Methodological work
+## Other methodological work
 
 [Correct calculation of confidence interval for proportion of superior comparisons between desirability of outcome ranking scores](/assets/DOOR Calculation - Clinical Infectious Diseases.pdf) published in *Clinical Infectious Diseases*
