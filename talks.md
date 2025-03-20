@@ -6,13 +6,19 @@ permalink: /talks/
 
 Where available I have linked the recordings of my academic talks. I also provide the slide decks as pdf files (note that animations and certain slides will not render properly).
 
+# Wesfarmers Centre of Vaccines and Infectious Diseases
+
+I have presented the following seminars for the Wesfarmers Centre of Vaccines and Infectious Diseases Seminar Series:
+
+[Rethinking clinical research: How can we design vaccine trials to efficiently inform policy?](https://www.youtube.com/watch?v=DfJUV1MMEwc&list=PLDHdc5wkdFJvSbQKL_8mIVrDhF8ueOUcm&index=1) with [slide deck](/assets/WCVID_2025_slides.pdf) presented in 2025
+
+[Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](https://www.youtube.com/watch?v=LrRaXmBvisM&list=PLDHdc5wkdFJvSbQKL_8mIVrDhF8ueOUcm&index=42) with [slide deck](/assets/WCVID_2021_slides.pdf) presented in 2021
+
 # University of Cambridge
 
-In 2024 I presented an invited talk to the MRC Biostatistics Unit at the University of Cambridge. Below is the link to the recording and slide deck:
+In 2024 I presented an invited talk to the MRC Biostatistics Unit at the University of Cambridge:
 
 [Designing Bayesian clinical trials to enhance vaccine policy recommendations](https://www.youtube.com/watch?v=fxW0lVvQnIQ) with [slide deck](/assets/Cambridge_2024_slides.pdf)
-
-Following this talk, I gave a slightly updated talk to the Collaborative Network for Value of Information ([ConVOI](https://www.convoi-group.org/homepage-portfolio-grid/about/)). This talk was not recorded but here is the [slide deck](/assets/ConVOI_2024_slides.pdf).
 
 # CAHS Research Education Program
 
@@ -27,6 +33,8 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 # Unrecorded talks
 
 Below I provide the slide decks for a series of talks I have given in reverse chronological order that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
+
+[Designing Bayesian clinical trials to enhance vaccine policy recommendations](/assets/ConVOI_2024_slides.pdf) presented to the Collaborative Network for Value of Information in 2024
 
 [How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) intended to present at the The Kids Research Institute Australia Student Symposium in 2024 but was postponed
 
@@ -47,5 +55,3 @@ Below I provide the slide decks for a series of talks I have given in reverse ch
 [Conditional Logistic Modelling for Adaptive Trials](/assets/AusTriM_2021_slides.pdf) presented at the Australian Trials Methodology Conference in 2021
 
 [Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](/assets/ANZSC_2021_slides.pdf) presented at the Australian and New Zealand Statistical Conference in 2021 (invited talk)
-
-[Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](/assets/WCVID_2021_slides.pdf) presented at the Wesfarmers Centre of Vaccines and Infectious Diseases Seminar Series in 2021
