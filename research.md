@@ -8,9 +8,9 @@ I maintain my publication record at [Google Scholar](https://scholar.google.com/
 
 ## Current methodological work
 
-I am currently working on developing methods to enhance the design of vaccine trials to produce higher quality evidence to inform vaccine policy recommendations. My work in this area is yet to be published but it will be uploaded once available.
+I am currently working on developing methods to enhance the design of vaccine trials to produce higher quality evidence to inform vaccine policy recommendations. This work is available below and will expand as the PhD progresses:
 
-Here is the preprint for my first (PhD) paper: [What is the quality of evidence informing vaccine clinical practice recommendations in Australia?](/assets/Quality of Evidence - Preprint.pdf)
+[What is the quality of evidence informing vaccine clinical practice recommendations in Australia?](/assets/Quality of Evidence - Vaccine.pdf) published in *Vaccine*
 
 ## Applied work
 
