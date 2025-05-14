@@ -40,7 +40,7 @@ Below I provide the slide decks for a series of talks I have given in reverse ch
 
 [Lessons learned from designing COVID-19 vaccine trials in an evolving vaccine policy landscape](/assets/ICTMC_2024_slides.pdf) presented at the International Clinical Trials Methodology Conference in 2024
 
-[Advice to Medical Students: A Statistical Sermon](/assets/STRIVE_2024_slides.pdf) presented at a workshop for the Student Research Initiative Western Australia in 2024
+[Advice to Medical Students: A Statistical Sermon](/assets/STRIVE_2024_slides.pdf) presented at workshops for the Student Research Initiative Western Australia in 2024 and 2025
 
 [A novel decision-making framework for Bayesian adaptive trial designs](/assets/ASC_2023_slides.pdf) presented at the Australian Statistical Conference in 2023
 
