@@ -12,7 +12,7 @@ First and foremost, I consider myself a member of the Adaptive Health Intelligen
 
 ### The Kids Research Institute Australia
 
-[Associate Professor Julie Marsh](https://scholar.google.com.au/citations?user=Y5JWookAAAAJ&hl=en) - biostatistician, wine connoisseur, my work Mum and PhD supervisor.
+[Associate Professor Julie Marsh](https://scholar.google.com.au/citations?user=Y5JWookAAAAJ&hl=en) - biostatistician and PhD supervisor.
 
 [Dr Charlie McLeod](https://scholar.google.com.au/citations?user=egQkGFAAAAAJ&hl=en&oi=ao) - infectious diseases physician.
 
@@ -22,7 +22,7 @@ Edward Pan - statistical programmer.
 
 ### University of Sydney
 
-[Professor Tom Snelling](https://scholar.google.com.au/citations?user=LfX9TWoAAAAJ&hl=en&oi=ao) - AHI Director, infectious diseases physician moonlighting as a biostatistician, pizza chef and my PhD supervisor.
+[Professor Tom Snelling](https://scholar.google.com.au/citations?user=LfX9TWoAAAAJ&hl=en&oi=ao) - infectious diseases physician and PhD supervisor.
 
 Mark Jones - biostatistician.
 
@@ -36,15 +36,17 @@ Mark Jones - biostatistician.
 
 ## The University of Western Australia
 
-[Associate Professor Kevin Murray](https://scholar.google.co.uk/citations?user=QROTWT8AAAAJ&hl=en&oi=sra) - biostatistician, my PhD supervisor and honours supervisor.
+[Associate Professor Kevin Murray](https://scholar.google.co.uk/citations?user=QROTWT8AAAAJ&hl=en&oi=sra) - biostatistician, PhD supervisor and Honours supervisor.
 
-[Associate Professor Berwin Turlach](https://scholar.google.co.uk/citations?user=DRv2GVgAAAAJ&hl=en&oi=sra) - statistician and my honours supervisor.
+[Associate Professor Berwin Turlach](https://scholar.google.co.uk/citations?user=DRv2GVgAAAAJ&hl=en&oi=sra) - statistician and Honours supervisor.
 
 ## Other statisticians
 
-[Dr Rob Mahar](https://scholar.google.co.uk/citations?user=nvx2J6sAAAAJ&hl=en&oi=ao) - biostatistician and member of my PhD advisory panel based at the University of Melbourne.
+[Dr Anna Heath](https://scholar.google.com/citations?user=dC2iOScAAAAJ&hl=en&oi=ao) - biostatistician and PhD supervisor based at The Hospital for Sick Children.
 
-[Professor Kate Lee](https://scholar.google.co.uk/citations?user=3kFo3bUAAAAJ&hl=en&oi=ao) - biostatistician and chair of my PhD advisory panel based at Murdoch Children's Research Institute.
+[Dr Rob Mahar](https://scholar.google.co.uk/citations?user=nvx2J6sAAAAJ&hl=en&oi=ao) - biostatistician and member of PhD advisory panel based at the University of Melbourne.
+
+[Professor Kate Lee](https://scholar.google.co.uk/citations?user=3kFo3bUAAAAJ&hl=en&oi=ao) - biostatistician and chair of PhD advisory panel based at Murdoch Children's Research Institute.
 
 Dr Anna McGlothlin - biostatistician based at Berry Consultants.
 
