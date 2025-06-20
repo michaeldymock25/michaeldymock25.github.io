@@ -88,4 +88,6 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 ## Other methodological work
 
+[A practical guide to simulation for an adaptive trial design with a single interim analysis](/assets/Simulation Tutorial - preprint.pdf) preprint
+
 [Correct calculation of confidence interval for proportion of superior comparisons between desirability of outcome ranking scores](/assets/DOOR Calculation - Clinical Infectious Diseases.pdf) published in *Clinical Infectious Diseases*
