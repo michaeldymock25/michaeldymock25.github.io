@@ -8,7 +8,7 @@ Where available I have linked the recordings of my academic talks. I also provid
 
 # Wesfarmers Centre of Vaccines and Infectious Diseases
 
-I have presented the following seminars for the Wesfarmers Centre of Vaccines and Infectious Diseases Seminar Series:
+I have presented the following (invited) seminars for the Wesfarmers Centre of Vaccines and Infectious Diseases Seminar Series:
 
 [Rethinking clinical research: How can we design vaccine trials to efficiently inform policy?](https://www.youtube.com/watch?v=DfJUV1MMEwc&list=PLDHdc5wkdFJvSbQKL_8mIVrDhF8ueOUcm&index=1) with [slide deck](/assets/WCVID_2025_slides.pdf) presented in 2025
 
