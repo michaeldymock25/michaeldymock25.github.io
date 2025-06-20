@@ -34,6 +34,8 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 
 Below I provide the slide decks for a series of talks I have given in reverse chronological order that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
 
+[What is the quality of evidence informing Australian vaccine clinical practice recommendations?](/assets/CDIC_2025_slides.pdf) presented at the Communicable Diseases and Immunisation Conference in 2022
+
 [Designing Bayesian clinical trials to enhance vaccine policy recommendations](/assets/ConVOI_2024_slides.pdf) presented to the Collaborative Network for Value of Information in 2024
 
 [How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) intended to present at the The Kids Research Institute Australia Student Symposium in 2024 but was postponed
@@ -50,7 +52,7 @@ Below I provide the slide decks for a series of talks I have given in reverse ch
 
 [Designing clinical trials to enhance decision-making](/assets/TKI_2023_slides.pdf) presented at the Telethon Kids Institute Student Symposium in 2023
 
-[Novel Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](/assets/CDIC_2022_slides.pdf) presented at the (Australian) Communicable Diseases and Immunisation Conference in 2022
+[Novel Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](/assets/CDIC_2022_slides.pdf) presented at the Communicable Diseases and Immunisation Conference in 2022
 
 [Conditional Logistic Modelling for Adaptive Trials](/assets/AusTriM_2021_slides.pdf) presented at the Australian Trials Methodology Conference in 2021
 
