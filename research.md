@@ -28,6 +28,8 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 [Bringing optimised COVID-19 vaccine schedules to immunocompromised populations (BOOST-IC):study protocol for an adaptive randomised controlled clinical trial](/assets/BOOST-IC Protocol - Trials.pdf) published in *Trials*
 
+[Bringing optimised COVID-19 vaccine schedules to immunocompromised populations: statistical elements and design](/assets/BOOST-IC Statistical Elements - Trials.pdf) published in *Trials*
+
 [The Effect of Short Message Service (SMS)-Reminders on Child Health in Parents of Newborns: A Pilot Randomised Controlled Trial](/assets/SMS Reminder Pilot Trial - Preprint.pdf) preprint
 
 ### Vaccine safety surveillance
