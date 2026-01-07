@@ -22,7 +22,7 @@ In 2024 I presented an invited talk to the MRC Biostatistics Unit at the Univers
 
 # CAHS Research Education Program
 
-I provide three annual seminars for the [CAHS Research Education program](https://www.cahs.health.wa.gov.au/Research/For-researchers/Research-Education-Program/Seminars). Below are links to the latest editions of:
+I provide three annual seminars for the [CAHS Research Education program](https://www.cahs.health.wa.gov.au/Research/For-researchers/Research-Education-Program/Seminars). Below are links to the previous editions of:
 
 [Introductory Biostatistics](https://www.youtube.com/watch?v=V8Fwp7Yy0nw) with [slide deck](/assets/CAHS_Introductory_Biostatistics_2024_slides.pdf)
 
@@ -32,13 +32,15 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 
 # Unrecorded talks
 
-Below I provide the slide decks for a series of talks I have given in reverse chronological order that were unfortunately (or fortunately in the instances where I [bombed](https://comedylens.com/why-comedians-bomb/)) not recorded:
+Below I provide the slide decks for a series of talks I have given in reverse chronological order that were not recorded:
 
-[What is the quality of evidence informing Australian vaccine clinical practice recommendations?](/assets/CDIC_2025_slides.pdf) presented at the Communicable Diseases and Immunisation Conference in 2022
+[Rethinking Clinical Trial Design: Should We Consider the Value of Information?](/assets/ASC_2025_slides.pdf) presented at the Australian Statistical Conference in 2025
 
-[Designing Bayesian clinical trials to enhance vaccine policy recommendations](/assets/ConVOI_2024_slides.pdf) presented to the Collaborative Network for Value of Information in 2024
+[A pragmatic Bayesian adaptive trial design based on the value of information: the value-driven adaptive design](/assets/AusTriM_2025_slides.pdf) presented at the Australian Trials Methodology Conference in 2025
 
-[How significant is (statistical) significance?](/assets/TKRIA_2024_slides.pdf) intended to present at the The Kids Research Institute Australia Student Symposium in 2024 but was postponed
+[What is the quality of evidence informing Australian vaccine clinical practice recommendations?](/assets/CDIC_2025_slides.pdf) presented at the Communicable Diseases and Immunisation Conference in 2025
+
+[Designing Bayesian clinical trials to enhance vaccine policy recommendations](/assets/ConVOI_2024_slides.pdf) presented to the Collaborative Network for Value of Information in 2024 (invited talk)
 
 [Lessons learned from designing COVID-19 vaccine trials in an evolving vaccine policy landscape](/assets/ICTMC_2024_slides.pdf) presented at the International Clinical Trials Methodology Conference in 2024
 
@@ -48,7 +50,7 @@ Below I provide the slide decks for a series of talks I have given in reverse ch
 
 [Modelling immune responses to COVID-19 vaccination with a Bayesian three-level hierarchical model](/assets/AusTriM_2023_slides.pdf) presented at the Australian Trials Methodology Conference in 2023
 
-[Designing Efficient Clinical Trials](/assets/SSA_2023_slides.pdf) presented at the joint meeting of the Statistical Society of Australia (Western Australia Branch) and the International Biometric Society (Australasian Region) in 2023
+[Designing Efficient Clinical Trials](/assets/SSA_2023_slides.pdf) presented at the joint meeting of the Statistical Society of Australia (Western Australia Branch) and the International Biometric Society (Australasian Region) in 2023 (invited talk)
 
 [Designing clinical trials to enhance decision-making](/assets/TKI_2023_slides.pdf) presented at the Telethon Kids Institute Student Symposium in 2023
 
