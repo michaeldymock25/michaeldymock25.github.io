@@ -48,7 +48,7 @@ Mark Jones - biostatistician.
 
 [Professor Kate Lee](https://scholar.google.co.uk/citations?user=3kFo3bUAAAAJ&hl=en&oi=ao) - biostatistician and chair of PhD advisory panel based at Murdoch Children's Research Institute.
 
-Dr Anna McGlothlin - biostatistician based at Berry Consultants.
+[Dr Anna McGlothlin](https://scholar.google.com/citations?user=SRS_AeoAAAAJ&hl=en&oi=ao) - biostatistician based at Berry Consultants.
 
 
 
