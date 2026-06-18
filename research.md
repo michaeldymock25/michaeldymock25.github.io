@@ -4,11 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-I maintain my publication record at [Google Scholar](https://scholar.google.com/citations?user=trDAMEUAAAAJ&hl=en&oi=ao). For ease (and transparency) I have grouped my publications thematically and made them available online in the following sections.
+I maintain my publication record at [Google Scholar](https://scholar.google.com/citations?user=trDAMEUAAAAJ&hl=en&oi=ao). For ease (and transparency) I have grouped my publications thematically (and in reverse chronological order) and made them available online in the following sections.
 
 ## Current methodological work
 
 I am currently working on developing methods to enhance the design of vaccine trials to produce higher quality evidence to inform vaccine policy recommendations. This work is available below and will expand as the PhD progresses:
+
+[A Pragmatic Bayesian Adaptive Trial Design Based on the Value of Information: The Value-Driven Adaptive Design](/assets/Value Driven Adaptive Design - Medical Decision Making.pdf) published in *Medical Decision Making* (2026)
 
 [What is the quality of evidence informing vaccine clinical practice recommendations in Australia?](/assets/Quality of Evidence - Vaccine.pdf) published in *Vaccine* (2025)
 
@@ -34,6 +36,8 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 ### Vaccine safety surveillance
 
+[Short-Term Safety and Adverse Event Risk Profiles forSARS-CoV-2 Booster Vaccine Doses in Australian Adults: A Survey Study](/assets/AusVaxSafety COVID-19 Boosters - Medical Journal of Australia.pdf) published in *Medical Journal of Australia* (2026)
+
 [Short term safety profile of respiratory syncytial virus vaccine in adults aged ≥ 60 years in Australia](/assets/AusVaxSafety 2025 - The Lancet Regional Health - Western Pacific.pdf) published in *The Lancet Regional Health - Western Pacific* (2025)
 
 [Applying causal inference and Bayesian statistics to understanding vaccine safety signals using a simulation study](/assets/AusVaxSafety Causal Inference - NPJ Vaccines.pdf) published in *npj vaccines* (2024)
@@ -46,11 +50,17 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 ### Staphylococcus aureus infections
 
+[Cefazolin for Methicillin-Susceptible Staphylococcus aureus Bacteremia](/assets/SNAP Backbone MSSA - NEJM.pdf) published in *The New England Journal of Medicine* (2026)
+
+[Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial](/assets/SNAP Backbone PSSA - Lancet.pdf) published in *The Lancet* (2026)
+
 [Statistical documentation for multi-disease, multi-domain platform trials: our experience with the Staphylococcus aureus Network Adaptive Platform trial](/assets/SNAP Documentation - Trials.pdf) published in *Trials* (2025)
 
 [A blueprint for a multi-disease, multi-domain Bayesian adaptive platform trial incorporating adult and paediatric subgroups: the Staphylococcus aureus Network Adaptive Platform trial](/assets/SNAP Blueprint - Trials.pdf) published in *Trials* (2023)
 
 ### Kidney transplantation
+
+[BEAT-BK: An Adaptive, Randomized Controlled Trial to Treat Polyomavirus Infections (BKPyV) in Kidney and Kidney-pancreas Transplantation Recipients (BEAT-BK) Study Protocol](/assets/BEAT-BK Protocol - Transplantation Direct.pdf) published in *Transplantation Direct* (2026)
 
 [Using causal directed acyclic graphs (DAGs) to select patient-important outcomes in transplantation trials—interventions to treat polyomavirus infection as an example](/assets/Transplantation DAG - Kidney International.pdf) published in *Kidney International* (2023)
 
