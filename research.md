@@ -36,7 +36,7 @@ I am currently working on developing methods to enhance the design of vaccine tr
 
 ### Vaccine safety surveillance
 
-[Short-Term Safety and Adverse Event Risk Profiles forSARS-CoV-2 Booster Vaccine Doses in Australian Adults: A Survey Study](/assets/AusVaxSafety COVID-19 Boosters - Medical Journal of Australia.pdf) published in *Medical Journal of Australia* (2026)
+[Short-Term Safety and Adverse Event Risk Profiles for SARS-CoV-2 Booster Vaccine Doses in Australian Adults: A Survey Study](/assets/AusVaxSafety COVID-19 Boosters - Medical Journal of Australia.pdf) published in *Medical Journal of Australia* (2026)
 
 [Short term safety profile of respiratory syncytial virus vaccine in adults aged ≥ 60 years in Australia](/assets/AusVaxSafety 2025 - The Lancet Regional Health - Western Pacific.pdf) published in *The Lancet Regional Health - Western Pacific* (2025)
 
