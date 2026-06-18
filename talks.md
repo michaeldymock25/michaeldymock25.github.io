@@ -29,8 +29,3 @@ I provide three annual seminars for the [CAHS Research Education program](https:
 [Sample Size Calculations](https://www.youtube.com/watch?v=Hft2ipJZBJU) with [slide deck](/assets/CAHS_Sample_Sizes_2024_slides.pdf)
 
 [Tips for Interpreting Scientific Claims](https://www.youtube.com/watch?v=nQId1ZCkc80) with [slide deck](/assets/CAHS_Scientific_Claims_2023_slides.pdf)
-
-
-[Conditional Logistic Modelling for Adaptive Trials](/assets/AusTriM_2021_slides.pdf) presented at the Australian Trials Methodology Conference in 2021
-
-[Signal Detection Methods for COVID-19 Vaccine Safety Surveillance](/assets/ANZSC_2021_slides.pdf) presented at the Australian and New Zealand Statistical Conference in 2021 (invited talk)
